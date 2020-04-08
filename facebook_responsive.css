@@ -1,0 +1,27 @@
+@media screen and (max-width: 600px) {
+  div #div1 {
+    display: none;
+  }
+}
+body{
+	padding-left: 50px;
+	width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+	div #footer1 {
+		display: none;
+	}
+}
+@media screen  and (max-width: 600px) {
+	div #footer2 {
+		display:none;
+	}
+}
+@media screen and (max-width: 600px) {
+ div #header a {
+    float: none;
+    width: 100%;
+  }
+}
+
